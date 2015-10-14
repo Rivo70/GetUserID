@@ -28,7 +28,7 @@ public class GetUsersID {
        
         
         //AS400 connection and command object
-        AS400 system400 = new AS400("10.10.2.38", "rafael", "jackme01");
+        AS400 system400 = new AS400("10.10.2.38", "", "");
        
         
         try
